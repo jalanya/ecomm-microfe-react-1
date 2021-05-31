@@ -1,0 +1,7 @@
+container/node_modules
+container/dist
+container/package-lock.json
+
+products/node_modules
+products/dist
+products/package-lock.json
