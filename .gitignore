@@ -5,3 +5,7 @@ container/package-lock.json
 products/node_modules
 products/dist
 products/package-lock.json
+
+cart/node_modules
+cart/dist
+cart/package-lock.json
